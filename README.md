@@ -6,7 +6,7 @@ This plugin for [Elgg](https://elgg.org/) adds a hovering button to the lower ri
 
 ## Usage
 
-Unzip the plugin into the directory `mod/backtotop` in your Elgg installation.
+Unzip the plugin into the directory `mod/backtotop` in your Elgg installation. After activating the plugin using the plugin administration, reset the caches.
 
 ## Styling
 
