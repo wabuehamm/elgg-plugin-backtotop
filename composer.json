@@ -1,0 +1,20 @@
+{
+  "name": "wabuehamm/backtotp",
+  "description": "This plugin for [Elgg](https://elgg.org/) adds a hovering button to the lower right of the page, which scrolls back to the top of page when clicked.",
+  "type": "elgg-plugin",
+  "keywords": [
+    "elgg",
+    "plugin"
+  ],
+  "license": "MIT",
+  "support": {
+    "source": "https://github.com/wabuehamm/elgg-plugin-backtotop",
+    "issues": "https://github.com/wabuehamm/elgg-plugin-backtotop/issues"
+  },
+  "require": {
+    "composer/installers": "^1.0.8"
+  },
+  "conflict": {
+    "elgg/elgg": "<3.0"
+  }
+}
