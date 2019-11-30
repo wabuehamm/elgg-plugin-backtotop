@@ -11,3 +11,11 @@ Unzip the plugin into the directory `mod/backtotop` in your Elgg installation. A
 ## Styling
 
 The button the plugin adds has the id `backToTopButton`, which you can style using css by extending or completely overwriting the `css/backtotop.css` view.
+
+# Development
+
+## Release
+
+Run the following command to release a new version to GitHub
+
+    GITHUB_TOKEN=<my token> grunt release:<new release number>
