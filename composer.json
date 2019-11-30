@@ -1,5 +1,5 @@
 {
-  "name": "wabuehamm/backtotp",
+  "name": "wabuehamm/backtotop",
   "description": "This plugin for [Elgg](https://elgg.org/) adds a hovering button to the lower right of the page, which scrolls back to the top of page when clicked.",
   "type": "elgg-plugin",
   "keywords": [
